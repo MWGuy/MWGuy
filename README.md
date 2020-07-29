@@ -15,7 +15,7 @@ I’m currently working on [sakura](https://vk.com/sakura_manager)!
   - [Kawaii](https://github.com/mango-org/kawaii) - Full featured, spring like, jPHP framework for web development
   - [llvm-brainfuck](https://github.com/MWGuy/llvm-brainfuck) - Small brainfuck compiler written with LLVM C API
 
-### Contact with me
+### Contact with me:
   - VK: https://vk.com/mwguy
   - Twitter: https://twitter.com/MWGuyV
   - EMail: yousan4ik@gmail.com

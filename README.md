@@ -1,16 +1,22 @@
 ### Hi there 👋
+I’m currently working on [sakura](https://vk.com/sakura_manager)!
 
-<!--
-**MWGuy/MWGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My teclology stack:
+  - Java (JavaFX, Spring Boot, ...)
+  - JS (NodeJS, ReactJS, MongoDB ...)
+  - Rust
+  - C/C++ (Compiler development)
+  - PHP, jPHP
 
-Here are some ideas to get you started:
+### My open-source projects:
+  - [VGit](https://github.com/MWGuy/VGit) - Git server written in java
+  - [DevelNext](https://github.com/jphp-group/develnext-ide) - RAD and IDE for jPHP language
+  - [jPHP Android](https://github.com/jphp-group/jphp-android) - Tools and libraries for jPHP development on android platform
+  - [Kawaii](https://github.com/mango-org/kawaii) - Full featured, spring like, jPHP framework for web development
+  - [llvm-brainfuck](https://github.com/MWGuy/llvm-brainfuck) - Small brainfuck compiler written with LLVM C API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contect with me
+  - VK: https://vk.com/mwguy
+  - Twitter: https://twitter.com/MWGuyV
+  - EMail: yousan4ik@gmail.com
+  - My Discrod server: https://discord.gg/Z8mRRaD

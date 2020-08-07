@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on [sakura](https://vk.com/sakura_manager)!
+I’m currently working on [sakura](https://vk.com/sakurabots)!
 
 ### My teclology stack:
   - Java (JavaFX, Spring Boot, ...)
@@ -18,5 +18,5 @@ I’m currently working on [sakura](https://vk.com/sakura_manager)!
 ### Contact with me:
   - VK: https://vk.com/mwguy
   - Twitter: https://twitter.com/MWGuyV
-  - EMail: yousan4ik@gmail.com
+  - Email: yousan4ik@gmail.com
   - My Discrod server: https://discord.gg/Z8mRRaD

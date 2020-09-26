@@ -1,5 +1,4 @@
 ### Hi there 👋
-I’m currently working on [sakura](https://github.com/sakura-bots)!
 
 ### My teclology stack:
   - Java (JavaFX, Spring Boot, ...)

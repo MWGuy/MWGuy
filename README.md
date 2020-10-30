@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm young developer from belarus.
-I working on some web services and client-side applications.
-My favorite opensource projects [VGit](https://github.com/MWGuy/VGit) and [DevelNext IDE](https://github.com/jphp-group/develnext-ide).
-Also i member of [jPHP Group](https://github.com/jphp-group) - community who develop JVM implementation of PHP language
+I'm young developer from Belarus.
+I'm working on some web-services and client-side applications.
+My favorite opensource projects: [VGit](https://github.com/MWGuy/VGit) and [DevelNext IDE](https://github.com/jphp-group/develnext-ide).
+Also i'm a member of [jPHP Group](https://github.com/jphp-group) - community developing JVM implementation for PHP language.
 
-### My teclology stack:
+### My technology stack:
   - Java - RESTful services and client-side applications
   - JS - React frontend development, server-side development
   - C/C++ - toy projects such as brainfuck compiler 
